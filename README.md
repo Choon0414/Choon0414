@@ -21,7 +21,7 @@
 
 <!--백준 티어 표시-->
 <p align='center'>
-   <a><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunn815)](https://solved.ac/hyunn815"/></a>
+   <a><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunn815"/></a>
 </p></br>
 
 <!--GitHub 사용 언어 통계-->
