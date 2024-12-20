@@ -1,13 +1,17 @@
-## 춘식의 GitHub 👋
+![춘식의 GitHub 👋](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=춘식GitHub)
 
 <!--#### 기술 스택 뱃지-->
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
-![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo&logo=mongodb&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo&logo=mysql&logoColor=white)
+<p align='center'>
+   <a><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
+   <a><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo&logo=mongodb&logoColor=white"/></a>
+   <a><img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo&logo=mysql&logoColor=white"/></a>
+    </br>
+   <a><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo&logo=amazon-aws&logoColor=white"/></a>
+   <a><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo&logo=redis&logoColor=white"/></a>
+   <a><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo&logo=docker&logoColor=white"/></a>
+</p> 
 </br>
-![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo&logo=amazon-aws&logoColor=white)
-![redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo&logo=redis&logoColor=white)
-![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo&logo=docker&logoColor=white)
+
 
 <!--![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)-->
@@ -29,7 +33,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Choon0414&show_icons=true&theme=default)
 </br>
 
-
+</p>
 <!--
 **Choon0414/Choon0414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
